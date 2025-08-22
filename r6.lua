@@ -131,7 +131,7 @@ CreateMeshOnHead(
 )
 
 CreateMeshOnHead(
-    Vector3.new(1.5, 1.5, 1.5),
+    Vector3.new(1.45, 1.45, 1.45),
     "rbxassetid://14786022859",
     "rbxassetid://14786029100",
     Vector3.new(0, -0.4, 0)
