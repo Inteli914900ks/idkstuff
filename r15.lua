@@ -80,7 +80,7 @@ CreateMeshOnHead(Vector3.new(1, 1, 1), "rbxassetid://18150356000", "rbxassetid:/
 CreateMeshOnHead(Vector3.new(1, 1, 1), "rbxassetid://16266462022", "rbxassetid://16247693913", Vector3.new(0, -0.6, -0.25))
 CreateMeshOnHead(Vector3.new(1, 1, 1), "rbxassetid://104217810692089", "rbxassetid://88185972367692", Vector3.new(0, -0.6, 0))
 CreateMeshOnHead(Vector3.new(1, 1, 1), "rbxassetid://16264444783", "rbxassetid://16264444689", Vector3.new(0, -0.6, 0))
-CreateMeshOnHead(Vector3.new(1, 1, 1), "rbxassetid://14786022859", "rbxassetid://14786029100", Vector3.new(0, -0.4, 0))
+CreateMeshOnHead(Vector3.new(2, 2, 2), "rbxassetid://14786022859", "rbxassetid://14786029100", Vector3.new(0, -0.4, 0))
 
 
 local pants = chr:FindFirstChildOfClass("Pants") or Instance.new("Pants", chr)
